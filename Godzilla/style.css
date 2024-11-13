@@ -38,6 +38,16 @@ h2 {
     margin: 0 auto;
 }
 
+.image-edit {
+float: right;
+border: 5px solid crimson;
+border-radius: 10px;
+margin: 0 auto;
+max-width: 600px;
+width: 60%;
+height: 300px;
+}
+
 .content-section {
     margin-top: 30px;
 }
