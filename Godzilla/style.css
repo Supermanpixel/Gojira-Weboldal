@@ -72,3 +72,9 @@ footer a {
     color: #ffcc00;
     text-decoration: none;
 }
+.image-logo {
+float: none;
+margin: 0 auto;
+display: block;
+
+}
