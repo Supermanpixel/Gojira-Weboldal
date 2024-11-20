@@ -9,3 +9,12 @@ header {
     text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.8);  
     text-transform: uppercase;  
 }
+
+body {
+background-image: url(MV5BODA4ZDgwMzItNTZlYy00OWE4LWE0OTItNzJmZWM1ZjMxZDA5XkEyXkFqcGc@._V1_.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: #bb0606;
+background-attachment: fixed;
+background-position: center center;
+}
